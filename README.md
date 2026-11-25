@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Mert Yıldız — Turning messy data into decisions, from markets to medicine." width="100%">
+Mert Yıldız — Turning messy data into decisions, from markets to medicine.
 
 Computer Science & Engineering at **TU/e** (Eindhoven) · Interested in **AI** and **quantitative finance**
 
@@ -11,7 +11,7 @@ Computer Science & Engineering at **TU/e** (Eindhoven) · Interested in **AI** a
 
 Built with a friend: a classifier that takes a skin-lesion image and predicts whether it is benign or melanoma. → [repo](https://github.com/yildiz-mert/melanoma-classifier)
 
-<img src="./assets/melanoma.svg" alt="Image to features to prediction" width="100%">
+
 
 ## Now
 
