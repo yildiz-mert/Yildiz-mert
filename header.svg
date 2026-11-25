@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="150" viewBox="0 0 820 150">
+  <style>
+    .name { font: 800 58px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -2.5px; fill: #1f2328; }
+    .tag  { font: 400 19px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #57606a; }
+    .accent { fill: #f5a524; }
+    .line { stroke: #f5a524; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #e6edf3; }
+      .tag  { fill: #9198a1; }
+    }
+  </style>
+  <text x="2" y="66" class="name">Mert Yıldız<tspan class="accent">.</tspan></text>
+  <text x="4" y="112" class="tag">Turning messy data into decisions — from markets to medicine.</text>
+  <path d="M4 128 C 120 122, 240 132, 360 126 S 560 122, 590 127" fill="none" class="line" stroke-width="2" stroke-linecap="round"/>
+</svg>
